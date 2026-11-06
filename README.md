@@ -2,6 +2,8 @@
 
 Una invitación artesanal que se recorre por pantallas, con cinco caminos y diez sorpresas animadas. Conserva la textura de papel, los tonos terracota, las flores y los dibujos originales. Funciona como un sitio estático: no necesita ChatGPT, cuentas de visitantes, servidor de aplicación, instalación ni compilación.
 
+Dirección de GitHub Pages: https://geriverob-dev.github.io/silvia-laberinto/
+
 ## Abrirla
 
 Abre `index.html` directamente en el navegador o, para probarla mediante HTTP:
