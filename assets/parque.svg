@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" fill="none">
+<title>Un árbol y una banca para pasar la tarde juntos</title>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 151C88 146 156 153 209 149" stroke="#777b5b" stroke-width="1.5"/>
+<path d="M62 143L65 79L79 79L82 145" fill="#c2a187" stroke="#462d2c" stroke-width="1.8"/>
+<path d="M66 104L49 85M78 104L91 88" stroke="#462d2c" stroke-width="1.8"/>
+<path d="M50 93C32 98 22 78 34 64C25 49 38 31 55 34C60 15 84 15 91 31C111 26 123 45 114 58C131 77 107 95 94 91C85 108 62 107 50 93Z" fill="#c6c9a9" stroke="#777b5b" stroke-width="1.8"/>
+<path d="M44 57C48 45 58 45 63 47M80 41C87 38 93 43 95 48M93 77C86 85 77 84 72 81" stroke="#919773" stroke-width="1.2"/>
+<path d="M113 106L199 105L198 116L113 117ZM112 122L200 121L200 131L111 132Z" fill="#d6b091" stroke="#462d2c" stroke-width="1.7"/>
+<path d="M121 101L121 149M190 101L190 149M111 132L108 137L204 136L200 131" stroke="#462d2c" stroke-width="1.8"/>
+<path d="M130 136L127 150M183 136L186 150" stroke="#462d2c" stroke-width="1.8"/>
+<path d="M167 64C159 52 145 62 156 72L167 81C167 81 186 66 180 59C175 52 168 57 167 64Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.5"/>
+<path d="M40 150L39 137M36 142L39 146L45 139M213 149L215 140" stroke="#777b5b" stroke-width="1.5"/>
+</g></svg>

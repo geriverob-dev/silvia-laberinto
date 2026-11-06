@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" fill="none">
+<title>Una rueda de la fortuna con pequeños asientos de colores</title>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M81 157L120 91L159 157M89 157L120 103L151 157" fill="#e9b6ad" stroke="#462d2c" stroke-width="1.8"/>
+<circle cx="120" cy="78" r="53" stroke="#462d2c" stroke-width="1.9"/>
+<circle cx="120" cy="78" r="48" stroke="#a34e3e" stroke-width="1"/>
+<path d="M120 25L120 130M68 78L172 78M82 40L157 115M83 115L158 40" stroke="#a99279" stroke-width="1.3"/>
+<path d="M113 29L113 39L127 39L127 29" fill="#c4c7a4" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M76 45L76 55L90 55L90 45" fill="#e9b6ad" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M61 83L61 93L75 93L75 83" fill="#e6d1a2" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M76 120L76 130L90 130L90 120" fill="#c4c7a4" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M113 135L113 145L127 145L127 135" fill="#e9b6ad" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M150 120L150 130L164 130L164 120" fill="#e6d1a2" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M165 83L165 93L179 93L179 83" fill="#c4c7a4" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M150 45L150 55L164 55L164 45" fill="#e9b6ad" stroke="#462d2c" stroke-width="1.5"/>
+<circle cx="120" cy="78" r="7" fill="#a34e3e" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M68 158C101 155 136 160 172 157" stroke="#462d2c" stroke-width="1.5"/>
+<path d="M30 83L34 93L44 94L36 101L38 112L29 106L20 111L23 100L15 93L26 92Z" fill="#e6d1a2" stroke="#a99279" stroke-width="1.1"/>
+<path d="M206 37C200 28 190 35 197 42L207 50C207 50 223 39 217 33C212 28 207 31 206 37Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.4"/>
+<path d="M203 125L206 134M199 133L211 127" stroke="#a34e3e" stroke-width="1.4"/>
+</g></svg>

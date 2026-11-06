@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" fill="none">
+<title>Dos pares de pasos recorriendo juntos un caminito</title>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M37 155C30 129 89 134 96 111C103 90 72 86 89 64C103 44 137 49 145 29" stroke="#d8c9b0" stroke-width="27"/>
+<path d="M37 155C30 129 89 134 96 111C103 90 72 86 89 64C103 44 137 49 145 29" stroke="#ad9679" stroke-dasharray="3 7" stroke-width="1.3"/>
+<g transform="rotate(-20 146 124)" stroke="#462d2c" stroke-width="1.6">
+<path d="M114 107L136 107L141 118C148 121 173 119 174 133C160 141 135 139 113 135Z" fill="#e9b6ad"/>
+<path d="M113 132C137 136 160 137 174 132L174 139C156 145 133 142 113 139Z" fill="#fffaf0"/>
+<path d="M135 118L146 119M137 123L151 124M140 128L155 129" stroke="#fffaf0" stroke-width="2"/>
+<path d="M115 111L126 111L126 123L114 123" fill="#a34e3e"/>
+</g>
+<g transform="rotate(12 162 87)" stroke="#462d2c" stroke-width="1.6">
+<path d="M138 70L159 70L164 82C172 85 194 84 196 97C179 105 156 103 137 100Z" fill="#c4c7a4"/>
+<path d="M137 98C157 101 179 103 196 97L196 103C178 109 156 106 137 105Z" fill="#fffaf0"/>
+<path d="M159 82L170 83M162 87L175 89M164 92L180 94" stroke="#fffaf0" stroke-width="2"/>
+<path d="M139 74L150 74L150 87L138 86" fill="#777b5b"/>
+</g>
+<path d="M53 91L50 69M50 80C35 81 34 70 36 66C45 66 50 73 50 80ZM50 75C60 71 63 64 61 60C52 61 48 68 50 75Z" fill="#c4c7a4" stroke="#777b5b" stroke-width="1.5"/>
+<path d="M196 143L200 129M201 137L207 132" stroke="#777b5b" stroke-width="1.5"/>
+<path d="M106 32C100 23 91 30 98 38L107 45C107 45 121 35 116 29C112 24 107 27 106 32Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.3"/>
+</g></svg>

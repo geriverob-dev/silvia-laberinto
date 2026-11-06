@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="550" viewBox="0 0 620 550" fill="none">
+<title>Una carta para Silvia, flores, un cafecito y dos boletos para compartir una tarde</title>
+<g stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="308" cy="468" rx="211" ry="15" fill="#462d2c" opacity=".06"/>
+  <g stroke="#777b5b" stroke-width="2.2">
+    <path d="M123 296C94 232 83 168 79 107M129 297C132 223 123 183 130 130"/>
+    <path d="M93 197C63 191 55 177 58 164C77 168 89 178 93 197Z" fill="#929474"/>
+    <path d="M101 225C120 211 124 196 118 183C102 193 97 211 101 225Z" fill="#929474"/>
+    <path d="M128 209C144 197 152 184 148 171C130 179 125 192 128 209Z" fill="#929474"/>
+    <path d="M126 180C106 174 101 163 103 152C119 154 128 167 126 180Z" fill="#929474"/>
+  </g>
+  <g fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.7">
+    <path d="M79 116C66 113 53 105 54 92C55 84 63 85 68 88C63 76 68 68 76 72C81 58 90 67 91 78C103 73 109 81 102 92C110 107 92 119 79 116Z"/>
+    <path d="M130 141C120 137 110 130 112 120C114 111 122 115 125 119C121 107 130 100 136 110C145 104 152 113 146 122C155 133 140 144 130 141Z"/>
+    <path d="M71 100C76 102 81 107 82 115M82 83C78 94 80 104 82 115M98 91C88 99 84 107 82 115M127 124L131 138M139 119L131 138"/>
+  </g>
+  <g transform="rotate(-9 295 252)">
+    <path d="M141 167L308 95L473 167L478 364L145 364Z" fill="#e4d5bb" stroke="#462d2c" stroke-width="2"/>
+    <path d="M164 112L427 111L431 319L161 316Z" fill="#fffaf0" stroke="#462d2c" stroke-width="1.9"/>
+    <path d="M182 130L407 129M182 296L407 296" stroke="#cbbca2" stroke-width="1"/>
+    <text x="202" y="177" fill="#a34e3e" font-family="Georgia, serif" font-style="italic" font-size="32">para Silvia</text>
+    <path d="M201 199C249 197 291 203 341 200M201 218C252 215 297 220 382 216M201 236C249 234 284 238 318 235" stroke="#b4a38e" stroke-width="1.5"/>
+    <path d="M361 250C349 233 329 245 337 258C344 268 359 276 359 276C359 276 380 262 382 250C385 235 366 235 361 250Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.8"/>
+    <path d="M141 167L309 271L473 167L477 365L145 364Z" fill="#f6eddd" stroke="#462d2c" stroke-width="2"/>
+    <path d="M145 364L277 252M477 365L342 250" stroke="#462d2c" stroke-width="1.8"/>
+    <path d="M147 358L276 248M474 359L345 246" stroke="#bdaa8d" stroke-width=".8"/>
+    <path d="M145 301C241 299 361 300 475 302L476 326C369 324 259 326 145 325Z" fill="#a34e3e" opacity=".92"/>
+    <path d="M292 169L315 169L317 364L294 364Z" fill="#a34e3e" opacity=".92"/>
+    <path d="M306 310C286 279 258 282 254 297C248 320 282 326 306 310Z" fill="#ce887b" stroke="#813b30" stroke-width="1.7"/>
+    <path d="M306 310C323 277 354 283 359 298C363 320 330 325 306 310Z" fill="#ce887b" stroke="#813b30" stroke-width="1.7"/>
+    <path d="M300 313C292 330 280 339 275 344L295 340L300 352C309 335 311 323 311 314M311 313C321 328 334 339 342 344L337 325L351 322C333 319 320 316 311 313" fill="#a34e3e" stroke="#813b30" stroke-width="1.5"/>
+    <path d="M300 304C304 301 310 301 314 304L315 315C309 319 302 318 298 313Z" fill="#b86c5c" stroke="#813b30" stroke-width="1.5"/>
+    <path d="M264 298C275 297 290 303 301 310M347 297C333 297 321 303 313 310" stroke="#813b30" stroke-width="1.2"/>
+  </g>
+  <g transform="rotate(12 484 168)">
+    <ellipse cx="484" cy="236" rx="69" ry="12" fill="#d7c2a4" opacity=".52"/>
+    <path d="M520 155C568 139 565 204 524 203L525 190C550 191 552 164 524 169Z" fill="#e9b6ad" stroke="#462d2c" stroke-width="2"/>
+    <path d="M435 143L530 143L524 213C519 238 449 238 442 212Z" fill="#e9b6ad" stroke="#462d2c" stroke-width="2"/>
+    <path d="M447 161L451 205" stroke="#fffaf0" stroke-width="5" opacity=".6"/>
+    <ellipse cx="483" cy="143" rx="47" ry="13" fill="#fffaf0" stroke="#462d2c" stroke-width="2"/>
+    <ellipse cx="483" cy="145" rx="37" ry="8" fill="#805e45"/>
+    <path d="M477 187C467 174 457 186 465 195L478 206C478 206 499 192 494 184C490 177 480 179 477 187Z" fill="#a34e3e"/>
+    <path d="M461 114C445 98 478 91 463 75M488 119C474 100 504 93 490 74M512 112C504 101 521 95 516 85" stroke="#a99279" stroke-width="1.7"/>
+  </g>
+  <g transform="rotate(7 372 439)">
+    <path d="M294 397L500 397L501 419C490 420 489 435 501 437L501 462L294 463L293 441C307 437 306 423 294 421Z" fill="#e9dfc6" stroke="#777b5b" stroke-width="1.7"/>
+    <path d="M336 400L336 460" stroke="#777b5b" stroke-dasharray="3 5" stroke-width="1.1"/>
+    <path d="M313 418L315 423L321 424L317 429L318 435L313 432L307 435L308 429L304 424L310 423Z" fill="#777b5b"/>
+    <text x="354" y="423" fill="#536044" font-family="Georgia, serif" font-style="italic" font-size="15">un ratito contigo</text>
+    <text x="354" y="445" fill="#777b5b" font-family="monospace" font-size="9" letter-spacing="2">VÁLIDO POR UNA SONRISA</text>
+  </g>
+  <path d="M87 374C77 361 64 371 72 381C78 389 88 394 88 394C88 394 104 382 104 373C104 362 91 363 87 374Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.5"/>
+  <path d="M518 321L524 333L537 335L527 344L530 357L518 350L507 356L509 343L499 333L513 332Z" fill="#e6d1a2" stroke="#a99279" stroke-width="1.5"/>
+  <path d="M207 53L211 64M199 63L214 57M558 278L562 288M554 287L566 281M62 258L70 262M64 266L68 255" stroke="#a34e3e" stroke-width="1.6"/>
+  <path d="M179 427C199 439 220 438 230 423" stroke="#a34e3e" stroke-width="1.5" stroke-dasharray="3 6"/>
+  <path d="M220 423L230 423L230 433" stroke="#a34e3e" stroke-width="1.5"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" fill="none">
+<title>Dos tazas de café con un corazoncito</title>
+<g stroke="#462d2c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="89" cy="142" rx="49" ry="8" fill="#dfcfb6" stroke="none"/>
+<ellipse cx="166" cy="145" rx="35" ry="6" fill="#dfcfb6" stroke="none"/>
+<path d="M121 87C153 76 151 120 123 119L125 109C142 109 141 88 123 96Z" fill="#e9b6ad"/>
+<path d="M52 77L126 78L122 125C118 145 62 145 58 124Z" fill="#e9b6ad"/>
+<ellipse cx="89" cy="78" rx="37" ry="10" fill="#fffaf0"/>
+<ellipse cx="89" cy="80" rx="29" ry="6" fill="#805e45" stroke="none"/>
+<path d="M62 92L65 121" stroke="#fffaf0" stroke-width="4"/>
+<path d="M88 106C80 95 71 106 80 114L89 121C89 121 105 110 100 104C96 98 90 100 88 106Z" fill="#a34e3e" stroke="none"/>
+<path d="M192 108C214 103 214 132 193 131L194 124C207 123 204 113 194 115Z" fill="#eee4d0"/>
+<path d="M140 102L195 102L190 135C185 148 150 148 145 135Z" fill="#eee4d0"/>
+<ellipse cx="167" cy="102" rx="27" ry="8" fill="#fffaf0"/>
+<ellipse cx="167" cy="104" rx="21" ry="5" fill="#805e45" stroke="none"/>
+<path d="M74 58C61 44 85 40 75 28M94 61C82 47 108 41 98 25M166 83C154 73 176 66 168 57" stroke="#a99279" stroke-width="1.5"/>
+<path d="M135 44C129 35 117 42 126 51L136 59C136 59 152 48 146 41C142 36 137 39 135 44Z" fill="#e9b6ad" stroke="#a34e3e" stroke-width="1.4"/>
+</g></svg>

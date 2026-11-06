@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" fill="none">
+<title>Un pequeño museo con columnas y una obra en forma de corazón</title>
+<g stroke="#462d2c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+<path d="M42 70L120 25L199 69Z" fill="#e9b6ad"/>
+<path d="M57 65L119 33L182 64Z" fill="#f6eddd" stroke="#a34e3e" stroke-width="1.2"/>
+<path d="M38 72L202 72L202 81L38 82Z" fill="#eee0c8"/>
+<path d="M47 82L193 82L193 143L47 143Z" fill="#fffaf0"/>
+<path d="M54 86L75 86L75 93L54 93ZM57 94L72 94L73 134L56 134ZM54 135L76 135L76 141L54 141Z" fill="#ded1b8"/>
+<path d="M164 86L185 86L185 93L164 93ZM167 94L182 94L183 134L166 134ZM164 135L186 135L186 141L164 141Z" fill="#ded1b8"/>
+<path d="M62 98L62 129M68 98L68 129M172 98L172 129M178 98L178 129" stroke="#b5a58d" stroke-width="1"/>
+<path d="M91 93L150 93L150 130L91 130Z" fill="#c4c7a4"/>
+<path d="M98 99L143 99L143 124L98 124Z" fill="#f6eddd" stroke-width="1"/>
+<path d="M120 108C114 99 104 107 111 113L120 121C120 121 135 110 130 104C126 100 121 103 120 108Z" fill="#a34e3e" stroke="none"/>
+<path d="M40 143L200 143L200 150L40 150ZM31 151L209 151L209 158L31 158Z" fill="#eee0c8"/>
+<path d="M119 48L121 54L128 55L123 59L124 65L119 62L114 65L115 59L110 55L117 54Z" fill="#a34e3e" stroke="none"/>
+<path d="M217 50L220 58M214 57L224 52M21 95L25 103M20 102L28 97" stroke="#a34e3e" stroke-width="1.2"/>
+</g></svg>

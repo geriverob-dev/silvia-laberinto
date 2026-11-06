@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6f0e5">
+  <meta name="description" content="Para Silvia: un laberinto de cartitas, flores y pequeñas sorpresas. Todos los caminos guardan un ratito bonito.">
+  <meta property="og:title" content="Silvia, te guardé una sorpresa ♡">
+  <meta property="og:description" content="Hay cinco caminos y algo bonito al final. Esta cartita es para ti.">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Silvia, te guardé una sorpresa ♡</title>
+  <link rel="icon" href="assets/heart.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/fonts.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/animations.css">
+  <script src="assets/scenes.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a href="#stage" class="skip-link">Saltar a la cartita</a>
+  <div class="app-shell">
+    <header class="header">
+      <button type="button" class="wordmark" id="home-button" aria-label="Volver al comienzo"><svg viewBox="0 0 34 34" aria-hidden="true"><path d="M17 28S2 19 3 10c1-8 11-7 14-1 4-7 14-6 14 2 0 8-14 17-14 17Z"/></svg><span>un ratito contigo</span></button>
+      <div class="header-controls"><button type="button" class="back-button" id="back-button" hidden><span aria-hidden="true">←</span> Un pasito atrás</button><button type="button" class="motion-button" id="motion-button" aria-pressed="false" aria-label="Pausar las animaciones"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7v10M15 7v10"/></svg><span id="motion-label">Pausar movimiento</span></button></div>
+    </header>
+    <main id="stage" tabindex="-1">
+      <section class="screen cover-screen"><div class="screen-copy"><p class="eyebrow">UNA PEQUEÑA SORPRESA PARA TI</p><h1>Silvia,<br>te guardé<br><em>un ratito.</em></h1><p class="description">Hice un caminito de cosas bonitas.<br>Y, al final, hay algo que quiero preguntarte.</p><p class="handwritten">¿Lo recorremos juntos?</p></div><div class="cover-art"><img src="assets/picnic-letter.svg" width="620" height="550" alt="Una cartita para Silvia con flores y un cafecito."></div></section>
+    </main>
+    <nav class="journey" aria-label="Tu recorrido"><ol id="journey-steps"><li class="active" aria-current="step"><span>01</span><b>La cartita</b></li><li><span>02</span><b>Los caminos</b></li><li><span>03</span><b>Un detallito</b></li><li><span>04</span><b>La sorpresa</b></li><li><span>05</span><b>Un ratito</b></li></ol><p class="journey-caption" id="journey-caption" aria-live="polite">Cada camino guarda algo bonito.</p></nav>
+    <footer class="footer"><p>Hecho con cariño, nervios y muchas ganas de verte.</p><span class="handwritten">Para ti, Silvia. ♡</span></footer>
+  </div>
+  <div id="particles" class="particles" aria-hidden="true"></div>
+  <div id="transition-wash" aria-hidden="true"></div>
+  <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+  <noscript><div class="noscript">Silvia, tengo muchas ganas de verte. Mi presupuesto anda chiquito y me sobra cariño. ¿Vamos por un café, al parque, al museo, a caminar o a la feria? Te adoro. Para recorrer las sorpresas, activa JavaScript en tu navegador.</div></noscript>
+</body>
+</html>
