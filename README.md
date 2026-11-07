@@ -29,9 +29,11 @@ Guía oficial: https://docs.github.com/en/pages/getting-started-with-github-page
 - Dos elecciones por plan: diez escenas con animaciones diferentes.
 - Carta final que se desdobla, invitación, disponibilidad opcional y respuesta para compartir o copiar.
 - Boletito de recuerdo descargable como SVG.
+- Carta de cumpleaños atrasado para «princesa bebé», «princesa hermosa» y «mi niña», con una disculpa por no haber podido acompañarla.
+- Botón «No» juguetón que se escapa del cursor y de los toques dentro de su propio espacio, sin tapar las otras respuestas. Al pausar el movimiento o usar el teclado permanece disponible.
 - Navegación hacia atrás, soporte de teclado y pausa de animaciones. Respeta la preferencia de movimiento reducido y permite activarlo expresamente.
 
-Las elecciones del recorrido son preferencias; la respuesta a la invitación se elige al final. “Lo platicamos con calma” produce su propio cierre cariñoso y no confirma una cita.
+Las elecciones del recorrido son preferencias; la pregunta final pide perdón. «Sí, te perdono» prepara una respuesta para compartir y deja los detalles del plan por acordar. «Lo platicamos con calma» produce su propio cierre cariñoso.
 
 ## Personalizarla
 
